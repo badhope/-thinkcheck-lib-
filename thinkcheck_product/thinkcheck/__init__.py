@@ -7,5 +7,5 @@ ThinkCheck - 谐振理论推理监控库
 from .decorator import thinkcheck, thinkcheck_retry
 from .core import calculate_h_score, HarmonicMonitor
 
-__version__ = "0.1.0"
+__version__ = "2.0.1"
 __all__ = ["thinkcheck", "thinkcheck_retry", "calculate_h_score", "HarmonicMonitor"]
